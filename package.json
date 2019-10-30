@@ -12,5 +12,23 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "--- title: React & JSX Lab type: Lab creator:     name: Jamie King     city: ATL competencies: Front-end frameworks ---",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrorabaugh/react-jsx-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrorabaugh/react-jsx-exercise/issues"
+  },
+  "homepage": "https://github.com/nrorabaugh/react-jsx-exercise#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

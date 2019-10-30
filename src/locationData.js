@@ -9,7 +9,7 @@ export default [
     phone: "678-890-2222"
   }, {
     name: "Alpharetta — Avalon",
-    address: "2200 Avalon Blvd.",
+    address: "2300 Avalon Blvd.",
     phone: "770-647-8811"
   }, {
     name: "Miami Beach",
@@ -21,7 +21,7 @@ export default [
     phone: "404-347-3874"
   }, {
     name: "Miami Beach",
-    address: "1058 Collins Ave.",
+    address: "1158 Collins Ave.",
     phone: "786-216-7808"
   }, {
     name: "Atlanta — Westside",
